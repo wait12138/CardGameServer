@@ -1,0 +1,14 @@
+D:\code\C#\CardGameServer\bin\Debug\net9.0\CardGameServer.exe
+D:\code\C#\CardGameServer\bin\Debug\net9.0\CardGameServer.deps.json
+D:\code\C#\CardGameServer\bin\Debug\net9.0\CardGameServer.runtimeconfig.json
+D:\code\C#\CardGameServer\bin\Debug\net9.0\CardGameServer.dll
+D:\code\C#\CardGameServer\bin\Debug\net9.0\CardGameServer.pdb
+D:\code\C#\CardGameServer\obj\Debug\net9.0\CardGameServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\CardGameServer\obj\Debug\net9.0\CardGameServer.AssemblyInfoInputs.cache
+D:\code\C#\CardGameServer\obj\Debug\net9.0\CardGameServer.AssemblyInfo.cs
+D:\code\C#\CardGameServer\obj\Debug\net9.0\CardGameServer.csproj.CoreCompileInputs.cache
+D:\code\C#\CardGameServer\obj\Debug\net9.0\CardGameServer.dll
+D:\code\C#\CardGameServer\obj\Debug\net9.0\refint\CardGameServer.dll
+D:\code\C#\CardGameServer\obj\Debug\net9.0\CardGameServer.pdb
+D:\code\C#\CardGameServer\obj\Debug\net9.0\CardGameServer.genruntimeconfig.cache
+D:\code\C#\CardGameServer\obj\Debug\net9.0\ref\CardGameServer.dll
